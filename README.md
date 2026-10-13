@@ -1,5 +1,9 @@
 # openWorkBenchesService-code
 
+The planned organization onboarding, configuration distribution, workstation pairing, and approval service.
+
+This repository is an initial project scaffold. Application functionality will be implemented in the code leg.
+
 The **code leg** of the `openworkbenchesservice` project: the implementation and its
 tests. The requirements it implements live in
 [`opensoft/openWorkBenchesService-spec`](https://github.com/opensoft/openWorkBenchesService-spec).
@@ -25,3 +29,8 @@ navigation; authority travels in grants, and a project that keeps spec and
 code in one repository is reviewed identically.
 
 Topic: `xf-project-openworkbenchesservice`.
+
+
+## License
+
+Apache-2.0. Copyright 2026 OpenSoft. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
